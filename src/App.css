@@ -1,0 +1,26 @@
+body {  
+  font-family: Arial, sans-serif;  
+  background-color: #f4f4f4;  
+}  
+
+h2 {  
+  color: #333;  
+}  
+
+h4 {  
+  color: #555;  
+  margin: 5px 0;  
+}  
+
+p {  
+  margin: 10px 0;  
+}  
+
+span {  
+  cursor: pointer;  
+  transition: background-color 0.3s;  
+}  
+
+span:hover {  
+  text-decoration: underline;  
+}  
